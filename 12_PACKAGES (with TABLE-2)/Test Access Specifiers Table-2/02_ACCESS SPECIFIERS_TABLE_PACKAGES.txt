@@ -1,0 +1,11 @@
+====================================================================================
+ Access  Specifiers-->	   No keyword       public        protected        private         
+ CAN                       (by Default)  
+ ACCESS FROM?  
+====================================================================================
+Subclass         
+(different package)           No	     Yes	  Yes   	       No
+
+Non-Subclass 
+(different package)           No	     Yes           No   	       No
+===================================================================================== 
